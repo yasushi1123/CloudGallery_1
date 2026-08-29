@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "baseUrl": "https://yasushi1123.github.io/CloudGallery_1",
+  "generatedAt": "2026-08-29T09:11:12.730156500+00:00",
+  "galleries": [
+    {
+      "galleryId": "gallery_2",
+      "displayName": "なつきお誕生日会",
+      "mode": "SlideShow",
+      "images": [
+        {
+          "id": "47d11c89",
+          "thumbnail": "thumb/47d11c89.jpg",
+          "fullsize": "full/47d11c89.jpg",
+          "version": 1,
+          "caption": "2025/11/01"
+        },
+        {
+          "id": "96a1354e",
+          "thumbnail": "thumb/96a1354e.jpg",
+          "fullsize": "full/96a1354e.jpg",
+          "version": 1,
+          "caption": "2025/11/02"
+        },
+        {
+          "id": "dd6a6549",
+          "thumbnail": "thumb/dd6a6549.jpg",
+          "fullsize": "full/dd6a6549.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "7226ce67",
+          "thumbnail": "thumb/7226ce67.jpg",
+          "fullsize": "full/7226ce67.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "10edd19c",
+          "thumbnail": "thumb/10edd19c.jpg",
+          "fullsize": "full/10edd19c.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "6af5b24b",
+          "thumbnail": "thumb/6af5b24b.jpg",
+          "fullsize": "full/6af5b24b.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "32a0c189",
+          "thumbnail": "thumb/32a0c189.jpg",
+          "fullsize": "full/32a0c189.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "350f51e7",
+          "thumbnail": "thumb/350f51e7.jpg",
+          "fullsize": "full/350f51e7.jpg",
+          "version": 1,
+          "caption": "2026/01/29"
+        },
+        {
+          "id": "8fbf1274",
+          "thumbnail": "thumb/8fbf1274.jpg",
+          "fullsize": "full/8fbf1274.jpg",
+          "version": 1,
+          "caption": "2026/01/29"
+        },
+        {
+          "id": "a7f4f9cd",
+          "thumbnail": "thumb/a7f4f9cd.jpg",
+          "fullsize": "full/a7f4f9cd.jpg",
+          "version": 1,
+          "caption": "2026/01/29"
+        },
+        {
+          "id": "2994fd83",
+          "thumbnail": "thumb/2994fd83.jpg",
+          "fullsize": "full/2994fd83.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "632bc7a4",
+          "thumbnail": "thumb/632bc7a4.jpg",
+          "fullsize": "full/632bc7a4.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "1f75f7af",
+          "thumbnail": "thumb/1f75f7af.jpg",
+          "fullsize": "full/1f75f7af.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "7899c42d",
+          "thumbnail": "thumb/7899c42d.jpg",
+          "fullsize": "full/7899c42d.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "cf01db38",
+          "thumbnail": "thumb/cf01db38.jpg",
+          "fullsize": "full/cf01db38.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "fd5ef9c3",
+          "thumbnail": "thumb/fd5ef9c3.jpg",
+          "fullsize": "full/fd5ef9c3.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "6cb36288",
+          "thumbnail": "thumb/6cb36288.jpg",
+          "fullsize": "full/6cb36288.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "b6b0a71b",
+          "thumbnail": "thumb/b6b0a71b.jpg",
+          "fullsize": "full/b6b0a71b.jpg",
+          "version": 1,
+          "caption": "2026/02/15"
+        },
+        {
+          "id": "805616ae",
+          "thumbnail": "thumb/805616ae.jpg",
+          "fullsize": "full/805616ae.jpg",
+          "version": 1,
+          "caption": "2026/05/31"
+        },
+        {
+          "id": "8aafe678",
+          "thumbnail": "thumb/8aafe678.jpg",
+          "fullsize": "full/8aafe678.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "32e438bf",
+          "thumbnail": "thumb/32e438bf.jpg",
+          "fullsize": "full/32e438bf.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "f919a296",
+          "thumbnail": "thumb/f919a296.jpg",
+          "fullsize": "full/f919a296.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "7be5f346",
+          "thumbnail": "thumb/7be5f346.jpg",
+          "fullsize": "full/7be5f346.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "2aaf5e42",
+          "thumbnail": "thumb/2aaf5e42.jpg",
+          "fullsize": "full/2aaf5e42.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "7aaa8a33",
+          "thumbnail": "thumb/7aaa8a33.jpg",
+          "fullsize": "full/7aaa8a33.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "76d51603",
+          "thumbnail": "thumb/76d51603.jpg",
+          "fullsize": "full/76d51603.jpg",
+          "version": 1,
+          "caption": "2026/07/05"
+        },
+        {
+          "id": "c7a1207a",
+          "thumbnail": "thumb/c7a1207a.jpg",
+          "fullsize": "full/c7a1207a.jpg",
+          "version": 1,
+          "caption": "2026/08/12"
+        },
+        {
+          "id": "51476b47",
+          "thumbnail": "thumb/51476b47.jpg",
+          "fullsize": "full/51476b47.jpg",
+          "version": 1,
+          "caption": "2026/08/29"
+        },
+        {
+          "id": "35865aef",
+          "thumbnail": "thumb/35865aef.jpg",
+          "fullsize": "full/35865aef.jpg",
+          "version": 1,
+          "caption": "2026/08/13"
+        }
+      ]
+    }
+  ],
+  "githubRepo": "yasushi1123/CloudGallery_1"
+}
