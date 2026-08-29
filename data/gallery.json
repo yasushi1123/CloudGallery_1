@@ -1,7 +1,16 @@
 {
   "version": 1,
   "baseUrl": "https://yasushi1123.github.io/CloudGallery_1",
-  "generatedAt": "2026-08-29T09:11:12.730156500+00:00",
+  "generatedAt": "2026-08-29T16:42:17.958052400+00:00",
+  "libraryImages": [
+    {
+      "id": "8f0aee4d",
+      "thumbnail": "thumb/8f0aee4d.jpg",
+      "fullsize": "full/8f0aee4d.jpg",
+      "version": 1,
+      "caption": "2026/08/29"
+    }
+  ],
   "galleries": [
     {
       "galleryId": "gallery_2",
@@ -210,6 +219,13 @@
           "fullsize": "full/35865aef.jpg",
           "version": 1,
           "caption": "2026/08/13"
+        },
+        {
+          "id": "39a42cf7",
+          "thumbnail": "thumb/39a42cf7.jpg",
+          "fullsize": "full/39a42cf7.jpg",
+          "version": 1,
+          "caption": "2026/08/29"
         }
       ]
     }
