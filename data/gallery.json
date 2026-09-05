@@ -1,7 +1,7 @@
 {
   "version": 1,
   "baseUrl": "https://yasushi1123.github.io/CloudGallery_1",
-  "generatedAt": "2026-08-30T16:13:59.844313700+00:00",
+  "generatedAt": "2026-09-05T11:32:02.198993200+00:00",
   "libraryImages": [
     {
       "id": "8f0aee4d",
@@ -226,6 +226,509 @@
           "fullsize": "full/39a42cf7.jpg",
           "version": 1,
           "caption": "2026/08/29"
+        }
+      ]
+    },
+    {
+      "galleryId": "yasushi1123",
+      "mode": "SlideShow",
+      "images": [
+        {
+          "id": "b35b6d38",
+          "thumbnail": "thumb/b35b6d38.jpg",
+          "fullsize": "full/b35b6d38.jpg",
+          "version": 1,
+          "caption": "2026/09/05"
+        },
+        {
+          "id": "ebb731e0",
+          "thumbnail": "thumb/ebb731e0.jpg",
+          "fullsize": "full/ebb731e0.jpg",
+          "version": 1,
+          "caption": "2025/09/08"
+        },
+        {
+          "id": "30a64892",
+          "thumbnail": "thumb/30a64892.jpg",
+          "fullsize": "full/30a64892.jpg",
+          "version": 1,
+          "caption": "2025/09/09"
+        },
+        {
+          "id": "6424df77",
+          "thumbnail": "thumb/6424df77.jpg",
+          "fullsize": "full/6424df77.jpg",
+          "version": 1,
+          "caption": "2025/09/14"
+        },
+        {
+          "id": "317916cc",
+          "thumbnail": "thumb/317916cc.jpg",
+          "fullsize": "full/317916cc.jpg",
+          "version": 1,
+          "caption": "2025/09/20"
+        },
+        {
+          "id": "798aa424",
+          "thumbnail": "thumb/798aa424.jpg",
+          "fullsize": "full/798aa424.jpg",
+          "version": 1,
+          "caption": "2025/09/20"
+        },
+        {
+          "id": "5da675f4",
+          "thumbnail": "thumb/5da675f4.jpg",
+          "fullsize": "full/5da675f4.jpg",
+          "version": 1,
+          "caption": "2025/09/20"
+        },
+        {
+          "id": "dde92d86",
+          "thumbnail": "thumb/dde92d86.jpg",
+          "fullsize": "full/dde92d86.jpg",
+          "version": 1,
+          "caption": "2025/09/21"
+        },
+        {
+          "id": "c6a5e6a2",
+          "thumbnail": "thumb/c6a5e6a2.jpg",
+          "fullsize": "full/c6a5e6a2.jpg",
+          "version": 1,
+          "caption": "2025/09/22"
+        },
+        {
+          "id": "bf8eb189",
+          "thumbnail": "thumb/bf8eb189.jpg",
+          "fullsize": "full/bf8eb189.jpg",
+          "version": 1,
+          "caption": "2025/09/22"
+        },
+        {
+          "id": "25841bce",
+          "thumbnail": "thumb/25841bce.jpg",
+          "fullsize": "full/25841bce.jpg",
+          "version": 1,
+          "caption": "2025/09/26"
+        },
+        {
+          "id": "ea827e05",
+          "thumbnail": "thumb/ea827e05.jpg",
+          "fullsize": "full/ea827e05.jpg",
+          "version": 1,
+          "caption": "2025/09/26"
+        },
+        {
+          "id": "d0f33fe5",
+          "thumbnail": "thumb/d0f33fe5.jpg",
+          "fullsize": "full/d0f33fe5.jpg",
+          "version": 1,
+          "caption": "2025/09/28"
+        },
+        {
+          "id": "dc000372",
+          "thumbnail": "thumb/dc000372.jpg",
+          "fullsize": "full/dc000372.jpg",
+          "version": 1,
+          "caption": "2025/09/29"
+        },
+        {
+          "id": "1537b059",
+          "thumbnail": "thumb/1537b059.jpg",
+          "fullsize": "full/1537b059.jpg",
+          "version": 1,
+          "caption": "2025/10/03"
+        },
+        {
+          "id": "7b1c77c5",
+          "thumbnail": "thumb/7b1c77c5.jpg",
+          "fullsize": "full/7b1c77c5.jpg",
+          "version": 1,
+          "caption": "2025/10/07"
+        },
+        {
+          "id": "3031611d",
+          "thumbnail": "thumb/3031611d.jpg",
+          "fullsize": "full/3031611d.jpg",
+          "version": 1,
+          "caption": "2025/10/07"
+        },
+        {
+          "id": "2c365288",
+          "thumbnail": "thumb/2c365288.jpg",
+          "fullsize": "full/2c365288.jpg",
+          "version": 1,
+          "caption": "2025/10/07"
+        },
+        {
+          "id": "a495e6cc",
+          "thumbnail": "thumb/a495e6cc.jpg",
+          "fullsize": "full/a495e6cc.jpg",
+          "version": 1,
+          "caption": "2025/10/10"
+        },
+        {
+          "id": "fa2fa5e6",
+          "thumbnail": "thumb/fa2fa5e6.jpg",
+          "fullsize": "full/fa2fa5e6.jpg",
+          "version": 1,
+          "caption": "2025/10/11"
+        },
+        {
+          "id": "bcb3c412",
+          "thumbnail": "thumb/bcb3c412.jpg",
+          "fullsize": "full/bcb3c412.jpg",
+          "version": 1,
+          "caption": "2025/10/12"
+        },
+        {
+          "id": "8869e8bd",
+          "thumbnail": "thumb/8869e8bd.jpg",
+          "fullsize": "full/8869e8bd.jpg",
+          "version": 1,
+          "caption": "2025/10/12"
+        },
+        {
+          "id": "888d8d57",
+          "thumbnail": "thumb/888d8d57.jpg",
+          "fullsize": "full/888d8d57.jpg",
+          "version": 1,
+          "caption": "2025/10/16"
+        },
+        {
+          "id": "076d0907",
+          "thumbnail": "thumb/076d0907.jpg",
+          "fullsize": "full/076d0907.jpg",
+          "version": 1,
+          "caption": "2025/10/19"
+        },
+        {
+          "id": "acadc4c0",
+          "thumbnail": "thumb/acadc4c0.jpg",
+          "fullsize": "full/acadc4c0.jpg",
+          "version": 1,
+          "caption": "2025/10/19"
+        },
+        {
+          "id": "dccf79a8",
+          "thumbnail": "thumb/dccf79a8.jpg",
+          "fullsize": "full/dccf79a8.jpg",
+          "version": 1,
+          "caption": "2025/10/19"
+        },
+        {
+          "id": "3c15c061",
+          "thumbnail": "thumb/3c15c061.jpg",
+          "fullsize": "full/3c15c061.jpg",
+          "version": 1,
+          "caption": "2025/10/19"
+        },
+        {
+          "id": "87280ce3",
+          "thumbnail": "thumb/87280ce3.jpg",
+          "fullsize": "full/87280ce3.jpg",
+          "version": 1,
+          "caption": "2025/10/24"
+        },
+        {
+          "id": "4620feba",
+          "thumbnail": "thumb/4620feba.jpg",
+          "fullsize": "full/4620feba.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "27b03571",
+          "thumbnail": "thumb/27b03571.jpg",
+          "fullsize": "full/27b03571.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "c011d42a",
+          "thumbnail": "thumb/c011d42a.jpg",
+          "fullsize": "full/c011d42a.jpg",
+          "version": 1,
+          "caption": "2025/10/25"
+        },
+        {
+          "id": "49a44c90",
+          "thumbnail": "thumb/49a44c90.jpg",
+          "fullsize": "full/49a44c90.jpg",
+          "version": 1,
+          "caption": "2025/10/26"
+        },
+        {
+          "id": "25570a3a",
+          "thumbnail": "thumb/25570a3a.jpg",
+          "fullsize": "full/25570a3a.jpg",
+          "version": 1,
+          "caption": "2025/10/28"
+        },
+        {
+          "id": "5d8f357d",
+          "thumbnail": "thumb/5d8f357d.jpg",
+          "fullsize": "full/5d8f357d.jpg",
+          "version": 1,
+          "caption": "2025/10/28"
+        },
+        {
+          "id": "08b61368",
+          "thumbnail": "thumb/08b61368.jpg",
+          "fullsize": "full/08b61368.jpg",
+          "version": 1,
+          "caption": "2025/10/29"
+        },
+        {
+          "id": "af168005",
+          "thumbnail": "thumb/af168005.jpg",
+          "fullsize": "full/af168005.jpg",
+          "version": 1,
+          "caption": "2025/10/29"
+        },
+        {
+          "id": "0b0521bd",
+          "thumbnail": "thumb/0b0521bd.jpg",
+          "fullsize": "full/0b0521bd.jpg",
+          "version": 1,
+          "caption": "2025/10/30"
+        },
+        {
+          "id": "f6b8e26d",
+          "thumbnail": "thumb/f6b8e26d.jpg",
+          "fullsize": "full/f6b8e26d.jpg",
+          "version": 1,
+          "caption": "2025/10/31"
+        },
+        {
+          "id": "51128042",
+          "thumbnail": "thumb/51128042.jpg",
+          "fullsize": "full/51128042.jpg",
+          "version": 1,
+          "caption": "2025/10/31"
+        },
+        {
+          "id": "507132cc",
+          "thumbnail": "thumb/507132cc.jpg",
+          "fullsize": "full/507132cc.jpg",
+          "version": 1,
+          "caption": "2025/11/01"
+        },
+        {
+          "id": "3f308a60",
+          "thumbnail": "thumb/3f308a60.jpg",
+          "fullsize": "full/3f308a60.jpg",
+          "version": 1,
+          "caption": "2025/11/02"
+        },
+        {
+          "id": "d487823a",
+          "thumbnail": "thumb/d487823a.jpg",
+          "fullsize": "full/d487823a.jpg",
+          "version": 1,
+          "caption": "2025/11/01"
+        },
+        {
+          "id": "33c7ebac",
+          "thumbnail": "thumb/33c7ebac.jpg",
+          "fullsize": "full/33c7ebac.jpg",
+          "version": 1,
+          "caption": "2025/11/04"
+        },
+        {
+          "id": "fa44c5f6",
+          "thumbnail": "thumb/fa44c5f6.jpg",
+          "fullsize": "full/fa44c5f6.jpg",
+          "version": 1,
+          "caption": "2025/11/04"
+        },
+        {
+          "id": "4f84d3d9",
+          "thumbnail": "thumb/4f84d3d9.jpg",
+          "fullsize": "full/4f84d3d9.jpg",
+          "version": 1,
+          "caption": "2025/11/04"
+        },
+        {
+          "id": "c4ca1ad1",
+          "thumbnail": "thumb/c4ca1ad1.jpg",
+          "fullsize": "full/c4ca1ad1.jpg",
+          "version": 1,
+          "caption": "2025/11/05"
+        },
+        {
+          "id": "721df0f9",
+          "thumbnail": "thumb/721df0f9.jpg",
+          "fullsize": "full/721df0f9.jpg",
+          "version": 1,
+          "caption": "2025/11/06"
+        },
+        {
+          "id": "73558285",
+          "thumbnail": "thumb/73558285.jpg",
+          "fullsize": "full/73558285.jpg",
+          "version": 1,
+          "caption": "2025/11/06"
+        },
+        {
+          "id": "659b0bed",
+          "thumbnail": "thumb/659b0bed.jpg",
+          "fullsize": "full/659b0bed.jpg",
+          "version": 1,
+          "caption": "2025/11/06"
+        },
+        {
+          "id": "66358992",
+          "thumbnail": "thumb/66358992.jpg",
+          "fullsize": "full/66358992.jpg",
+          "version": 1,
+          "caption": "2025/11/06"
+        },
+        {
+          "id": "585776ad",
+          "thumbnail": "thumb/585776ad.jpg",
+          "fullsize": "full/585776ad.jpg",
+          "version": 1,
+          "caption": "2025/11/07"
+        },
+        {
+          "id": "2f00700e",
+          "thumbnail": "thumb/2f00700e.jpg",
+          "fullsize": "full/2f00700e.jpg",
+          "version": 1,
+          "caption": "2025/11/07"
+        },
+        {
+          "id": "65f99ab3",
+          "thumbnail": "thumb/65f99ab3.jpg",
+          "fullsize": "full/65f99ab3.jpg",
+          "version": 1,
+          "caption": "2025/11/08"
+        },
+        {
+          "id": "2c567367",
+          "thumbnail": "thumb/2c567367.jpg",
+          "fullsize": "full/2c567367.jpg",
+          "version": 1,
+          "caption": "2025/11/10"
+        },
+        {
+          "id": "4b1fe818",
+          "thumbnail": "thumb/4b1fe818.jpg",
+          "fullsize": "full/4b1fe818.jpg",
+          "version": 1,
+          "caption": "2025/11/10"
+        },
+        {
+          "id": "19420659",
+          "thumbnail": "thumb/19420659.jpg",
+          "fullsize": "full/19420659.jpg",
+          "version": 1,
+          "caption": "2025/11/11"
+        },
+        {
+          "id": "ff0ce807",
+          "thumbnail": "thumb/ff0ce807.jpg",
+          "fullsize": "full/ff0ce807.jpg",
+          "version": 1,
+          "caption": "2025/11/11"
+        },
+        {
+          "id": "6ff00f9c",
+          "thumbnail": "thumb/6ff00f9c.jpg",
+          "fullsize": "full/6ff00f9c.jpg",
+          "version": 1,
+          "caption": "2025/11/11"
+        },
+        {
+          "id": "3e20197a",
+          "thumbnail": "thumb/3e20197a.jpg",
+          "fullsize": "full/3e20197a.jpg",
+          "version": 1,
+          "caption": "2025/11/13"
+        },
+        {
+          "id": "9aa24558",
+          "thumbnail": "thumb/9aa24558.jpg",
+          "fullsize": "full/9aa24558.jpg",
+          "version": 1,
+          "caption": "2025/11/13"
+        },
+        {
+          "id": "e1436a4c",
+          "thumbnail": "thumb/e1436a4c.jpg",
+          "fullsize": "full/e1436a4c.jpg",
+          "version": 1,
+          "caption": "2025/11/17"
+        },
+        {
+          "id": "cbc7ae91",
+          "thumbnail": "thumb/cbc7ae91.jpg",
+          "fullsize": "full/cbc7ae91.jpg",
+          "version": 1,
+          "caption": "2025/11/17"
+        },
+        {
+          "id": "f6eda49d",
+          "thumbnail": "thumb/f6eda49d.jpg",
+          "fullsize": "full/f6eda49d.jpg",
+          "version": 1,
+          "caption": "2025/11/18"
+        },
+        {
+          "id": "6445b00c",
+          "thumbnail": "thumb/6445b00c.jpg",
+          "fullsize": "full/6445b00c.jpg",
+          "version": 1,
+          "caption": "2025/11/18"
+        },
+        {
+          "id": "5a734b7d",
+          "thumbnail": "thumb/5a734b7d.jpg",
+          "fullsize": "full/5a734b7d.jpg",
+          "version": 1,
+          "caption": "2025/11/19"
+        },
+        {
+          "id": "8ecccbd4",
+          "thumbnail": "thumb/8ecccbd4.jpg",
+          "fullsize": "full/8ecccbd4.jpg",
+          "version": 1,
+          "caption": "2025/11/22"
+        },
+        {
+          "id": "e9a51d6c",
+          "thumbnail": "thumb/e9a51d6c.jpg",
+          "fullsize": "full/e9a51d6c.jpg",
+          "version": 1,
+          "caption": "2025/11/23"
+        },
+        {
+          "id": "80cabe5e",
+          "thumbnail": "thumb/80cabe5e.jpg",
+          "fullsize": "full/80cabe5e.jpg",
+          "version": 1,
+          "caption": "2025/11/24"
+        },
+        {
+          "id": "7f31bb6f",
+          "thumbnail": "thumb/7f31bb6f.jpg",
+          "fullsize": "full/7f31bb6f.jpg",
+          "version": 1,
+          "caption": "2025/11/26"
+        },
+        {
+          "id": "21c49231",
+          "thumbnail": "thumb/21c49231.jpg",
+          "fullsize": "full/21c49231.jpg",
+          "version": 1,
+          "caption": "2025/11/26"
+        },
+        {
+          "id": "c828ea85",
+          "thumbnail": "thumb/c828ea85.jpg",
+          "fullsize": "full/c828ea85.jpg",
+          "version": 1,
+          "caption": "2025/11/30"
         }
       ]
     }
